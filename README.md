@@ -19,4 +19,4 @@ $ git clone https://github.com/yoshiken5586/myros.git
 ## デモ動画  
 https://youtu.be/V6kgHzI18EE
 ## LICENSE  
-This repository is licensed under the GPLv3 license, see COPYING.  
+This repository is licensed under the BSD-3-Clause license, see COPYING.  
